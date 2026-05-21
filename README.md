@@ -37,17 +37,7 @@ The project demonstrates end-to-end Business Intelligence workflow including:
 - Job Role Analysis
 - Business Travel Impact
 
-### 3️⃣ Compensation Analysis
-- Salary Distribution
-- Job Satisfaction vs Monthly Income
-- Average Salary by Job Role
 
-### 4️⃣ Demographics Analysis
-- Gender Distribution
-- Education Analysis
-- Workforce Demographics
-
----
 
 ## 🔥 Key Features
 
@@ -76,12 +66,6 @@ The project demonstrates end-to-end Business Intelligence workflow including:
 - Dashboard Development
 - Data Visualization
 - Analytical Thinking
-
----
-
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshots here)
 
 ---
 
